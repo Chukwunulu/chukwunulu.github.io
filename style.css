@@ -67,6 +67,19 @@ body {
     box-shadow: 0 5px 20px #00ffdd10;
 }
 
+.skills {
+    padding: 40px 20px;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+}
+
+.skills p {
+    font-size: 1.1rem;
+    color: #00ffdd;
+    margin-top: 10px;
+}
+
 /* Contact Form */
 form {
     display: flex;
@@ -105,4 +118,5 @@ footer {
     .project-card {
         width: 90%;
     }
+
 }
